@@ -11,3 +11,4 @@ classes
 .project
 .classpath
 gradle.properties
+local.properties
